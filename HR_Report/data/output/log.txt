@@ -1,0 +1,12 @@
+[2026-11-09T15:35:48.512800] Program started
+[2026-11-09T15:35:48.512800] Program stopped: CSV file missing
+[2026-11-09T15:35:52.628915] Program started
+[2026-11-09T15:35:52.632033] Program stopped: CSV file missing
+[2026-11-09T15:38:33.747748] Program started
+[2026-11-09T15:38:33.749246] Part 1 completed
+[2026-11-09T15:38:33.751903] Part 2 completed
+[2026-11-09T15:38:33.751903] File not found: d:\It step\HR_Report\data\output\missing.txt
+[2026-11-09T15:38:33.756051] UnicodeDecodeError: d:\It step\HR_Report\data\output\broken.txt
+[2026-11-09T15:38:33.760935] Part 3 completed
+[2026-11-09T15:38:33.760935] Part 4 completed
+[2026-11-09T15:38:33.760935] Program finished

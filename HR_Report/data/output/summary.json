@@ -1,0 +1,32 @@
+[
+  {
+    "department": "IT",
+    "employee_count": 17,
+    "avg_salary": 5161.76
+  },
+  {
+    "department": "Finance",
+    "employee_count": 17,
+    "avg_salary": 4341.18
+  },
+  {
+    "department": "Marketing",
+    "employee_count": 14,
+    "avg_salary": 3692.86
+  },
+  {
+    "department": "Sales",
+    "employee_count": 18,
+    "avg_salary": 3547.22
+  },
+  {
+    "department": "HR",
+    "employee_count": 16,
+    "avg_salary": 2818.75
+  },
+  {
+    "department": "Support",
+    "employee_count": 18,
+    "avg_salary": 2255.56
+  }
+]
